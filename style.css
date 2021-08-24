@@ -5,6 +5,7 @@
 }
 .header-logo img {
     width: 100px;
+    margin-top:10px;
 }
 .header ul{
     list-style: none;
